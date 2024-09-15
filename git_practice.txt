@@ -1,1 +1,4 @@
 git remote変更
+コンフリクト
+pull_request
+
